@@ -99,7 +99,10 @@ private:
 
 ## 📄 Licence
 
-MIT – libre de réutilisation, modification et intégration dans vos projets.
+Ce projet est distribué sous la licence **Apache License 2.0**.  
+Vous pouvez l’utiliser librement dans des projets personnels ou commerciaux.
+
+Voir le fichier [`LICENSE`](./LICENSE) pour plus d’informations.
 
 ---
 
