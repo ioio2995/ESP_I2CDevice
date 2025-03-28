@@ -1,5 +1,6 @@
 idf_component_register(
-    SRC_DIRS "src"
+    SRCS 
+        "src/I2CDevice.cpp"
     INCLUDE_DIRS "src"
     REQUIRES driver
 ) 
